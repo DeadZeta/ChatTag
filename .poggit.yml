@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/DeadZeta/ChatTag
+build-by-default: true
+branches:
+- master
+projects:
+  ChatTag:
+    path: ""
+...
