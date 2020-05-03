@@ -3,7 +3,7 @@
 
 Project Name: ChatTag
 Project Release: 10.03.2020 22:20
-Project Last Update: 03.05.2020 22:18
+Project Last Update: 03.05.2020 22:21
 
 Comment: Заказать плагин vk.com/anideadjp.
 
@@ -54,7 +54,7 @@ public $purechat;
    $config = $this->config;
   
    if($config->get("PureChat") == true){
-    $player->setNameTag($message);
+    $player->setNameTag($message . "\n" . $player->getNameTag());
     $this->getScheduler()->scheduleRepeatingTask(new ChatTask($this, $player, $config, $this->purechat), 20);
    }else{
     $player->setNameTag($message);
