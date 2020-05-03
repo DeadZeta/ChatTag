@@ -1,6 +1,6 @@
 name: ChatTag
 main: ChatTag\Main
-version: 1.0
-api: 3.9.0
+version: 1.0.1
+api: 3.5.12
 author: DeadZeta
-web: https://github.com/DeadZeta/ChatTag
+website: https://github.com/DeadZeta/ChatTag
