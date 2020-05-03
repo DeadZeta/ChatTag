@@ -3,9 +3,9 @@
 
 Project Name: ChatTag
 Project Release: 10.03.2020 22:20
-Project Last Update: 10.03.2020 22:20
+Project Last Update: 03.05.2020 22:18
 
-Comment (OFFTOP): Заказать плагин vk.com/anideadjp.
+Comment: Заказать плагин vk.com/anideadjp.
 
 */
 
